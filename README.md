@@ -1,104 +1,106 @@
 <div align="center">
 
-  <!-- بانر عصري ناصع الجمال بدون مشاكل -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=ABDELRAHMAN%20NAIF&fontSize=32&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20&%20Cybersecurity%20Expert&descSize=15&descColor=FFFFFF&descAlignY=65" width="100%" />
+  <!-- Modern capsule banner -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ffcc,100:002b36&height=160&section=header&text=ABDELRAHMAN%20NAIF&fontSize=36&fontColor=00FFCC&animation=cross" alt="Abdelrahman Naif" />
 
-  <br><br>
-
-  <!-- بيلز الحالة التقنية -->
-  <img src="https://img.shields.io/badge/STATUS-HACKING%20%26%20CODING-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00&color=111111" />
-  <img src="https://img.shields.io/badge/LOCATION-TAIZ%2C%20YEMEN-000000?style=for-the-badge&logo=openstreetmap&logoColor=00FF00&color=111111" />
-  <img src="https://img.shields.io/badge/DEGREE-IT%20GRADUATE-000000?style=for-the-badge&logo=codeforces&logoColor=00FF00&color=111111" />
+  <p>
+    <code>🇾🇪 Taiz, Yemen</code> &nbsp;&bull;&nbsp; 
+    <code>🎓 Malaysian University (Ibb) - IT</code> &nbsp;&bull;&nbsp; 
+    <code>💼 Available for Opportunities</code>
+  </p>
 
 </div>
 
 ---
 
-### 💀 ABOUT ME
-<p align="center">
-  أنا <b>عبدالرحمن نائف علي عبده</b>، من تعز - اليمن. 🇾🇪<br>
-  خريج <b>الجامعة الماليزية (إب)</b> بدرجة <b>بكالوريوس في تقنية المعلومات (IT)</b>.<br>
-  مطور برمجيات محترف وخبير شبكات وأمن سيبراني. أدمج بين قوة الحماية واختبار الاختراق وبين دقة بناء التطبيقات والأنظمة الذكية.
+## مرحباً، أنا عبدالرحمن نائف 👋
+
+مطور برمجيات ومختص شبكات وأمن سيبراني من تعز، اليمن. أعمل على بناء تطبيقات موثوقة وآمنة مع الاهتمام بتصميم نظيف وأداء عالي. أحب تعلم تقنيات جديدة وتطبيقها لحل مشاكل ��قيقية.
+
+- ✅ التخصصات: تطوير ويب، تطبيقات سطح مكتب وموبايل، شبكات، واختبار اختراق.
+- 🎯 الهدف الآن: بناء مشاريع مفتوحة ورفع مستوى مهارات الأمن والتطوير.
+
+---
+
+## فهرس
+
+- [المهارات (Tech Stack)](#-المهارات-tech-stack)
+- [مشاريع بارزة](#-مشاريع-بارزة)
+- [أدوات وبيئة العمل](#-أدوات-وبيئة-العمل)
+- [اتصل بي](#-اتصل-بي)
+
+---
+
+## 🚀 المهارات (Tech Stack)
+
+<div align="center">
+
+### 🌐 تطوير الويب و backend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
----
+### 📱 تطبيقات سطح المكتب والموبايل
 
-### 💻 CORE COMPETENCIES & TECH STACK
+<p>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
-<div align="center">
+### ⚙️ لغات منخفضة المستوى
 
-  ### 🌐 Web & Backend Development
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-%236E4C13.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+</p>
 
-  ### 📱 Desktop & Mobile Ecosystem
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </p>
+### 🛡️ أمن وسيبراني وشبكات
 
-  ### ⚙️ Core & Low-Level Languages
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  </p>
-
-  ### 🛡️ Cybersecurity & Networks
-  <p>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/Penetration_Testing-D14836?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=securityscorecard&logoColor=00FF00" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-DD0031?style=for-the-badge&logo=metasploit&logoColor=white" alt="Pentesting" />
+</p>
 
 </div>
 
 ---
 
-### 🛠️ TOOLS & ENVIRONMENT
+## ✨ مشاريع بارزة
+
+أعرض هنا بعض المشاريع التي أعمل عليها أو أنهيتها — راجع قسم المستودعات (Repositories) للحصول على الروابط والتفاصيل.
+
+- مشروع مثال 1 — وصف قصير لمزيته التقنية وهدفه.
+- مشروع مثال 2 — تطبيق عملي لأمن الشبكات أو أداة مساعدة.
+
+(أريد أن أضع روابط محددة هنا — هل تود أن أدرج روابط لمشاريعك الحالية؟)
+
+---
+
+## 🛠️ أدوات وبيئة العمل
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,linux,kalilinux,windows,mysql&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,linux,kalilinux,windows,mysql,sqlite&perline=9" alt="tools" />
 </div>
 
 ---
 
-### 📈 GITHUB ANALYTICS
+## 📬 اتصل بي
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Dev-Code&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&text_color=00FF00&icon_color=00FF00" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Dev-Code&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&text_color=00FF00" width="48%" />
-</div>
+  <a href="https://wa.me/967716713514" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:abdelrahmandevcode@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdelrahman-Dev-Code&theme=vision-friendly-dark&hide_border=true&background=000000" width="85%" />
+  <p style="margin-top:8px">أو راسلني عبر GitHub — سأرد عادة في خلال أيام عمل.</p>
 </div>
 
 ---
 
-### 📬 GET IN TOUCH
-
-<div align="center">
-
-  <p>هل لديك مشروع طموح أو تحتاج إلى استشارة تقنية وأمنية؟ تواصل معي فوراً:</p>
-
-  <a href="https://wa.me/967716713514" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-SEND_MESSAGE-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF00&color=111111" />
-  </a>
-  <a href="mailto:abdelrahmandevcode@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-SEND_SECURELY-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&color=111111" />
-  </a>
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00FF00&center=true&vCenter=true&lines=cd+..%2Fhome;%2F%2F+Secure+Code+%26+Deep+Hacking;%2F%2F+Ready_for_the_next_challenge!" />
-
-</div>
+<p align="center">Made with ❤️ — عبد الرحمن نائف</p>
